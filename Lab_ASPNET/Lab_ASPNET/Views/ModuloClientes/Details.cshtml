@@ -1,0 +1,106 @@
+﻿@model Lab_ASPNET.Models.ModeloIntermedio
+
+@{
+    ViewBag.Title = "Detalles del cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalles</h2>
+<div>
+    <h4>Cliente</h4>
+    <hr />
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCliente.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCliente.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCliente.apellido1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCliente.apellido1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCliente.apellido2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCliente.apellido2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCliente.cedula)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCliente.cedula)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCliente.correo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCliente.correo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCliente.direccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCliente.direccion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloTelefono1.numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloTelefono1.numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloTelefono2.numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloTelefono2.numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCuenta1.numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCuenta1.numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCuenta2.numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCuenta2.numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modeloCuenta3.numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modeloCuenta3.numero)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Regresar", "Index")
+</p>

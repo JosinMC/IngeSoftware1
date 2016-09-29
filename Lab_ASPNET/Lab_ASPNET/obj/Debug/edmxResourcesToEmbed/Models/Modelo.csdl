@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BD_B43939Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="cedula" />
+    </Key>
+    <Property Name="cedula" Type="String" MaxLength="9" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="apellido1" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="apellido2" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+    <Property Name="correo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CUENTA" Relationship="Self.FK__CUENTA__cedulaCl__15502E78" FromRole="CLIENTE" ToRole="CUENTA" />
+    <NavigationProperty Name="TELEFONO" Relationship="Self.FK__TELEFONO__cedula__1273C1CD" FromRole="CLIENTE" ToRole="TELEFONO" />
+  </EntityType>
+  <EntityType Name="CUENTA">
+    <Key>
+      <PropertyRef Name="cedulaCliente" />
+    </Key>
+    <Property Name="cedulaCliente" Type="String" MaxLength="9" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="tipo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="numero" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CLIENTE" Relationship="Self.FK__CUENTA__cedulaCl__15502E78" FromRole="CUENTA" ToRole="CLIENTE" />
+  </EntityType>
+  <EntityType Name="TELEFONO">
+    <Key>
+      <PropertyRef Name="cedulaCliente" />
+    </Key>
+    <Property Name="cedulaCliente" Type="String" MaxLength="9" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="numero" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="CLIENTE" Relationship="Self.FK__TELEFONO__cedula__1273C1CD" FromRole="TELEFONO" ToRole="CLIENTE" />
+  </EntityType>
+  <Association Name="FK__CUENTA__cedulaCl__15502E78">
+    <End Role="CLIENTE" Type="Self.CLIENTE" Multiplicity="1" />
+    <End Role="CUENTA" Type="Self.CUENTA" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENTE">
+        <PropertyRef Name="cedula" />
+      </Principal>
+      <Dependent Role="CUENTA">
+        <PropertyRef Name="cedulaCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TELEFONO__cedula__1273C1CD">
+    <End Role="CLIENTE" Type="Self.CLIENTE" Multiplicity="1" />
+    <End Role="TELEFONO" Type="Self.TELEFONO" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENTE">
+        <PropertyRef Name="cedula" />
+      </Principal>
+      <Dependent Role="TELEFONO">
+        <PropertyRef Name="cedulaCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BD_B43939Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CLIENTE" EntityType="Self.CLIENTE" />
+    <EntitySet Name="CUENTA" EntityType="Self.CUENTA" />
+    <EntitySet Name="TELEFONO" EntityType="Self.TELEFONO" />
+    <AssociationSet Name="FK__CUENTA__cedulaCl__15502E78" Association="Self.FK__CUENTA__cedulaCl__15502E78">
+      <End Role="CLIENTE" EntitySet="CLIENTE" />
+      <End Role="CUENTA" EntitySet="CUENTA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TELEFONO__cedula__1273C1CD" Association="Self.FK__TELEFONO__cedula__1273C1CD">
+      <End Role="CLIENTE" EntitySet="CLIENTE" />
+      <End Role="TELEFONO" EntitySet="TELEFONO" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

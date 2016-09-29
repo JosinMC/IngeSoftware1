@@ -1,0 +1,72 @@
+﻿@model Lab_ASPNET.Models.ModeloIntermedio
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Primer apellido
+        </th>
+        <th>
+            Telefonos
+        </th>
+        <th>
+            Cuentas
+        </th>
+    </tr>
+
+            @for (int i = 0; i < Model.listaClientes.Count(); i++)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.listaClientes.ElementAt(i).nombre)
+                    </td>
+
+
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.listaClientes.ElementAt(i).apellido1)
+                    </td>
+                    <td>
+                        @for (int j = 0; j < Model.listaTelefonos.Count(); j++)
+                        {
+                            if (Model.listaClientes.ElementAt(i).cedula.Equals(Model.listaTelefonos.ElementAt(j).cedulaCliente))
+                            {
+                                @Html.DisplayFor(modelItem => Model.listaTelefonos.ElementAt(j).numero);
+                                @Html.Raw(" ");
+                            }
+                        }
+                    </td>
+					
+					<td>
+                        @for (int k = 0; k < Model.listaCuentas.Count(); k++)
+                        {
+                            if (Model.listaClientes.ElementAt(i).cedula.Equals(Model.listaCuentas.ElementAt(k).cedulaCliente))
+                            {
+                                @Html.DisplayFor(modelItem => Model.listaCuentas.ElementAt(k).numero);
+                                @Html.Raw(" ");
+                            }
+                        }
+                    </td>
+					
+					<td>
+					
+					</td>
+					
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = Model.listaClientes.ElementAt(i).cedula }) |
+                            @Html.ActionLink("Details", "Details", new { id = Model.listaClientes.ElementAt(i).cedula }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = Model.listaClientes.ElementAt(i).cedula }) 
+                        </td>
+                   
+                    </tr>
+
+                        }
+    </table>

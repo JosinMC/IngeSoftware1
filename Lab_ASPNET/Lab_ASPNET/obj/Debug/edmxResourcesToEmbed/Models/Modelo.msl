@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BD_B43939ModelStoreContainer" CdmEntityContainer="BD_B43939Entities">
+    <EntitySetMapping Name="CLIENTE">
+      <EntityTypeMapping TypeName="BD_B43939Model.CLIENTE">
+        <MappingFragment StoreEntitySet="CLIENTE">
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido1" ColumnName="apellido1" />
+          <ScalarProperty Name="apellido2" ColumnName="apellido2" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CUENTA">
+      <EntityTypeMapping TypeName="BD_B43939Model.CUENTA">
+        <MappingFragment StoreEntitySet="CUENTA">
+          <ScalarProperty Name="cedulaCliente" ColumnName="cedulaCliente" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="numero" ColumnName="numero" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TELEFONO">
+      <EntityTypeMapping TypeName="BD_B43939Model.TELEFONO">
+        <MappingFragment StoreEntitySet="TELEFONO">
+          <ScalarProperty Name="cedulaCliente" ColumnName="cedulaCliente" />
+          <ScalarProperty Name="numero" ColumnName="numero" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

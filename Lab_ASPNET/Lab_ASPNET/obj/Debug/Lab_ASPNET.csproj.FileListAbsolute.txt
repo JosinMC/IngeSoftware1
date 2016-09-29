@@ -1,0 +1,164 @@
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\ApplicationInsights.config
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\csc.exe
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\System.Collections.Immutable.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\vbc.exe
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\VBCSCompiler.exe
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\roslyn\VBCSCompiler.exe.config
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Lab_ASPNET.dll.config
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Lab_ASPNET.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Lab_ASPNET.pdb
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Antlr3.Runtime.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.SqlServer.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.Web.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.WindowsServer.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.ApplicationInsights.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Google.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Web.Infrastructure.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Newtonsoft.Json.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Owin.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Helpers.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Mvc.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Optimization.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Razor.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Deployment.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Razor.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\WebGrease.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.Web.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.WindowsServer.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.ApplicationInsights.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Helpers.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Mvc.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Optimization.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Razor.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Deployment.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Razor.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Antlr3.Runtime.pdb
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Newtonsoft.Json.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.SqlServer.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Google.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\obj\Debug\Lab_ASPNET.csprojResolveAssemblyReference.cache
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\obj\Debug\Lab_ASPNET.dll
+c:\users\b43939\documents\visual studio 2015\Projects\Lab_ASPNET\Lab_ASPNET\obj\Debug\Lab_ASPNET.pdb
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\ApplicationInsights.config
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\csc.exe
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\vbc.exe
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Lab_ASPNET.dll.config
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Lab_ASPNET.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Lab_ASPNET.pdb
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Antlr3.Runtime.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.SqlServer.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Newtonsoft.Json.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Owin.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Helpers.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Mvc.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Optimization.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Razor.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Razor.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\WebGrease.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.ApplicationInsights.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Helpers.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Mvc.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Optimization.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.Razor.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\System.Web.WebPages.Razor.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Antlr3.Runtime.pdb
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Newtonsoft.Json.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\EntityFramework.SqlServer.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\obj\Debug\Lab_ASPNET.csprojResolveAssemblyReference.cache
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\obj\Debug\Lab_ASPNET.dll
+C:\Users\B43939\Documents\LabASPNET\Lab_ASPNET\Lab_ASPNET\obj\Debug\Lab_ASPNET.pdb
